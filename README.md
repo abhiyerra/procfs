@@ -30,11 +30,11 @@ risk.
  - [ ] /proc/[pid]/cwd
  - [ ] /proc/[pid]/environ
  - [ ] /proc/[pid]/exe
- - [ ] /proc/[pid]/fd/
+ - [X] /proc/[pid]/fd/
  - [ ] /proc/[pid]/fdinfo/ (since Linux 2.6.22)
- - [ ] /proc/[pid]/io (since kernel 2.6.20)
+ - [X] /proc/[pid]/io (since kernel 2.6.20)
  - [ ] /proc/[pid]/gid_map (since Linux 3.5)
- - [ ] /proc/[pid]/limits (since Linux 2.6.24)
+ - [X] /proc/[pid]/limits (since Linux 2.6.24)
  - [ ] /proc/[pid]/map_files/ (since kernel 3.3)
  - [ ] /proc/[pid]/maps
  - [ ] /proc/[pid]/mem
@@ -54,7 +54,7 @@ risk.
  - [ ] /proc/[pid]/setgroups (since Linux 3.19)
  - [ ] /proc/[pid]/smaps (since Linux 2.6.14)
  - [ ] /proc/[pid]/stack (since Linux 2.6.29)
- - [ ] /proc/[pid]/stat
+ - [X] /proc/[pid]/stat
  - [ ] /proc/[pid]/statm
  - [ ] /proc/[pid]/status
  - [ ] /proc/[pid]/syscall (since Linux 2.6.27)
@@ -96,6 +96,7 @@ risk.
  - [ ] /proc/loadavg
  - [ ] /proc/locks
  - [ ] /proc/malloc (only up to and including Linux 2.2)
+ - [X] /proc/mdstat
  - [ ] /proc/meminfo
  - [ ] /proc/modules
  - [ ] /proc/mounts
@@ -108,10 +109,12 @@ risk.
  - [ ] /proc/net/rarp
  - [ ] /proc/net/raw
  - [ ] /proc/net/snmp
- - [ ] /proc/net/tcp
+ - [X] /proc/net/sockstat
+ - [X] /proc/net/tcp
  - [ ] /proc/net/udp
  - [ ] /proc/net/unix
  - [ ] /proc/net/netfilter/nfnetlink_queue
+ - [X] /proc/net/ip_vs_stats
  - [ ] /proc/partitions
  - [ ] /proc/pci
  - [ ] /proc/profile (since Linux 2.4)
@@ -120,7 +123,7 @@ risk.
  - [ ] /proc/scsi/[drivername]
  - [ ] /proc/self
  - [ ] /proc/slabinfo
- - [ ] /proc/stat
+ - [X] /proc/stat
  - [ ] /proc/swaps
  - [ ] /proc/sys
  - [ ] /proc/sys/abi (since Linux 2.4.10)
