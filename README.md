@@ -41,7 +41,7 @@ risk.
  - [ ] [/proc/[pid]/mountinfo (since Linux 2.6.26)](https://github.com/acksin/procfs/issues/40)
  - [ ] [/proc/[pid]/mounts (since Linux 2.4.19)](https://github.com/acksin/procfs/issues/41)
  - [ ] [/proc/[pid]/mountstats (since Linux 2.6.17)](https://github.com/acksin/procfs/issues/42)
- - [ ] [/proc/[pid]/net " (since Linux 2.6.25)"]()
+ - [ ] [/proc/[pid]/net (since Linux 2.6.25)]()
  - [ ] [/proc/[pid]/ns/ (since Linux 3.0)](https://github.com/acksin/procfs/issues/43)
  - [ ] [/proc/[pid]/numa_maps (since Linux 2.6.14)](https://github.com/acksin/procfs/issues/44)
  - [ ] [/proc/[pid]/oom_adj (since Linux 2.6.11)](https://github.com/acksin/procfs/issues/45)
