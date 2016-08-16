@@ -229,8 +229,8 @@ risk.
  - [ ] [/proc/thread-self (since Linux 3.17)](https://github.com/acksin/procfs/issues/123)
  - [ ] [/proc/timer_list (since Linux 2.6.21)](https://github.com/acksin/procfs/issues/124)
  - [ ] [/proc/timer_stats (since Linux 2.6.21)](https://github.com/acksin/procfs/issues/125)
- - [ ] /proc/tty
- - [ ] /proc/uptime
- - [ ] /proc/version
- - [ ] /proc/vmstat (since Linux 2.6.0)
- - [ ] /proc/zoneinfo (since Linux 2.6.13)
+ - [ ] [/proc/tty](https://github.com/acksin/procfs/issues/127)
+ - [ ] [/proc/uptime](https://github.com/acksin/procfs/issues/128)
+ - [ ] [/proc/version](https://github.com/acksin/procfs/issues/129)
+ - [ ] [/proc/vmstat (since Linux 2.6.0)](https://github.com/acksin/procfs/issues/130)
+ - [ ] [/proc/zoneinfo (since Linux 2.6.13)](https://github.com/acksin/procfs/issues/131)
