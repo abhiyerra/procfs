@@ -12,7 +12,7 @@ risk.
 
 # Status
 
- - [ ] [/proc/[pid](https://github.com/acksin/procfs/issues/14)
+ - [ ] [/proc/[pid]](https://github.com/acksin/procfs/issues/14)
  - [ ] [/proc/[pid]/attr](https://github.com/acksin/procfs/issues/18)
  - [ ] [/proc/[pid]/attr/current (since Linux 2.6.0)](https://github.com/acksin/procfs/issues/19)
  - [ ] [/proc/[pid]/attr/exec (since Linux 2.6.0)](https://github.com/acksin/procfs/issues/20)
@@ -52,43 +52,43 @@ risk.
  - [ ] [/proc/[pid]/root](https://github.com/acksin/procfs/issues/50)
  - [ ] [/proc/[pid]/seccomp (from Linux 2.6.12 to 2.6.22)](https://github.com/acksin/procfs/issues/51)
  - [ ] [/proc/[pid]/setgroups (since Linux 3.19)](https://github.com/acksin/procfs/issues/52)
- - [ ] /proc/[pid]/smaps (since Linux 2.6.14)
- - [ ] /proc/[pid]/stack (since Linux 2.6.29)
+ - [ ] [/proc/[pid]/smaps (since Linux 2.6.14)](https://github.com/acksin/procfs/issues/54)
+ - [ ] [/proc/[pid]/stack (since Linux 2.6.29)](https://github.com/acksin/procfs/issues/55)
  - [X] /proc/[pid]/stat
- - [ ] /proc/[pid]/statm
- - [ ] /proc/[pid]/status
- - [ ] /proc/[pid]/syscall (since Linux 2.6.27)
- - [ ] /proc/[pid]/task (since Linux 2.6.0-test6)
- - [ ] /proc/[pid]/timers (since Linux 3.10)
- - [ ] /proc/[pid]/timerslack_ns (since Linux 4.6)
- - [ ] /proc/[pid]/uid_map, /proc/[pid]/gid_map (since Linux 3.5)
- - [ ] /proc/[pid]/wchan (since Linux 2.6.0)
- - [ ] /proc/apm
- - [ ] /proc/buddyinfo
- - [ ] /proc/bus
- - [ ] /proc/bus/pccard
- - [ ] /proc/bus/pccard/drivers
- - [ ] /proc/bus/pci
- - [ ] /proc/bus/pci/devices
- - [ ] /proc/cgroups (since Linux 2.6.24)
- - [ ] /proc/cmdline
- - [ ] /proc/config.gz (since Linux 2.6)
- - [ ] /proc/crypto
- - [ ] /proc/cpuinfo
- - [ ] /proc/devices
- - [ ] /proc/diskstats (since Linux 2.5.69)
- - [ ] /proc/dma
- - [ ] /proc/driver
- - [ ] /proc/execdomains
- - [ ] /proc/fb
- - [ ] /proc/filesystems
- - [ ] /proc/fs
- - [ ] /proc/ide
- - [ ] /proc/interrupts
- - [ ] /proc/iomem
- - [ ] /proc/ioports
- - [ ] /proc/kallsyms (since Linux 2.5.71)
- - [ ] /proc/kcore
+ - [ ] [/proc/[pid]/statm](https://github.com/acksin/procfs/issues/56)
+ - [ ] [/proc/[pid]/status](https://github.com/acksin/procfs/issues/57)
+ - [ ] [/proc/[pid]/syscall (since Linux 2.6.27)](https://github.com/acksin/procfs/issues/58)
+ - [ ] [/proc/[pid]/task (since Linux 2.6.0-test6)](https://github.com/acksin/procfs/issues/59)
+ - [ ] [/proc/[pid]/timers (since Linux 3.10)](https://github.com/acksin/procfs/issues/60)
+ - [ ] [/proc/[pid]/timerslack_ns (since Linux 4.6)](https://github.com/acksin/procfs/issues/61)
+ - [ ] [/proc/[pid]/uid_map, /proc/[pid]/gid_map (since Linux 3.5)](https://github.com/acksin/procfs/issues/62)
+ - [ ] [/proc/[pid]/wchan (since Linux 2.6.0)](https://github.com/acksin/procfs/issues/63)
+ - [ ] [/proc/apm](https://github.com/acksin/procfs/issues/64)
+ - [ ] [/proc/buddyinfo](https://github.com/acksin/procfs/issues/65)
+ - [ ] [/proc/bus](https://github.com/acksin/procfs/issues/66)
+ - [ ] [/proc/bus/pccard](https://github.com/acksin/procfs/issues/67)
+ - [ ] [/proc/bus/pccard/drivers](https://github.com/acksin/procfs/issues/68)
+ - [ ] [/proc/bus/pci](https://github.com/acksin/procfs/issues/69)
+ - [ ] [/proc/bus/pci/devices](https://github.com/acksin/procfs/issues/70)
+ - [ ] [/proc/cgroups (since Linux 2.6.24)](https://github.com/acksin/procfs/issues/71)
+ - [ ] [/proc/cmdline](https://github.com/acksin/procfs/issues/72)
+ - [ ] [/proc/config.gz (since Linux 2.6)](https://github.com/acksin/procfs/issues/73)
+ - [ ] [/proc/crypto](https://github.com/acksin/procfs/issues/74)
+ - [ ] [/proc/cpuinfo](https://github.com/acksin/procfs/issues/75)
+ - [ ] [/proc/devices](https://github.com/acksin/procfs/issues/76)
+ - [ ] [/proc/diskstats (since Linux 2.5.69)](https://github.com/acksin/procfs/issues/77)
+ - [ ] [/proc/dma](https://github.com/acksin/procfs/issues/78)
+ - [ ] [/proc/driver](https://github.com/acksin/procfs/issues/79)
+ - [ ] [/proc/execdomains](https://github.com/acksin/procfs/issues/80)
+ - [ ] [/proc/fb](https://github.com/acksin/procfs/issues/81)
+ - [ ] [/proc/filesystems](https://github.com/acksin/procfs/issues/82)
+ - [ ] [/proc/fs](https://github.com/acksin/procfs/issues/83)
+ - [ ] [/proc/ide](https://github.com/acksin/procfs/issues/84)
+ - [ ] [/proc/interrupts](https://github.com/acksin/procfs/issues/85)
+ - [ ] [/proc/iomem](https://github.com/acksin/procfs/issues/86)
+ - [ ] [/proc/ioports](https://github.com/acksin/procfs/issues/87)
+ - [ ] [/proc/kallsyms (since Linux 2.5.71)](https://github.com/acksin/procfs/issues/88)
+ - [ ] [/proc/kcore](https://github.com/acksin/procfs/issues/89)
  - [ ] /proc/kmsg
  - [ ] /proc/kpagecount (since Linux 2.6.25)
  - [ ] /proc/kpageflags (since Linux 2.6.25)
