@@ -2,9 +2,17 @@
 
 Acksin uses GitHub to manage reviews of pull requests.
 
-* Pull Requests should describe what the patch does and include tests.
-    - We prefer patches which are smaller to larger ones.
-* Relevant coding style guidelines are the
-  [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)
-  and the _Formatting and style_ section of Peter Bourgon's
-  [Go: Best Practices for Production Environments](http://peter.bourgon.org/go-in-production/#formatting-and-style).
+1. Create a Pull Request off of the master branch.
+2. Make sure the following are updated:
+  - Link to the Github Issue for the `/proc` file.
+  - Include a fixture in the fixtures directory.
+  - Include a test to make sure that parsing works correctly.
+  - Add yourself to AUTHORS.md
+  - Create a check mark in README.md and remove Github Issues link.
+  - Make sure that each pull request is associated with a single
+    `/proc` file.
+
+## Coding Style Guidelines
+
+ - [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)
+ - _Formatting and style_ section of Peter Bourgon's [Go: Best Practices for Production Environments](http://peter.bourgon.org/go-in-production/#formatting-and-style).
